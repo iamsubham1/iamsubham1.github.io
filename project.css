@@ -1,0 +1,122 @@
+body {
+  background-image: url("background1.jpg");
+  background-color: #cccccc;
+}
+
+h1 {
+  color: rgb(146, 7, 181);
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.navbar {
+
+  margin: 20px 20px;
+  padding: 2px;
+  background-color: rgba(221, 213, 213, 0.714);
+  border-radius: 10px;
+}
+
+.navbar ul {
+
+
+  overflow: auto;
+  margin: -3px;
+  color: black
+}
+
+.navbar li {
+  display: block;
+  float: left;
+  list-style: none;
+  padding: 14px 10px;
+
+
+}
+
+.navbar a {
+  color: rgb(146, 7, 181);
+  font-size: large;
+  font-family: monospace;
+  text-decoration: none;
+  margin: -6px;
+  padding: 5px 10px;
+
+}
+
+.search {
+  float: right;
+  padding: 16px 80px;
+}
+
+.navbar input {
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: -4px -46px;
+  padding: 5px 23px;
+}
+img{
+ 
+  padding: 50px;
+  border-radius: 278px;
+}
+div{
+  width: 480px;
+  margin-left: 920px;
+  margin-top: -430px;
+  
+
+}
+
+h3 {
+  color: rgb(146, 7, 181);
+  text-align: center;
+  font-size: 26px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+  
+}
+p{
+  color: azure;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+  overflow: hidden;
+}
+.fa-github{
+  color: white;
+  font-size: 55px;
+  margin-top: 290px;
+  margin-left: 185px;
+  padding: 0px;
+  text-decoration: none;
+  
+}
+.fa-linkedin{
+  color: white;
+  font-size: 55px;
+  margin-top: 290px;
+  margin-left: 260px;
+  padding: 0px;
+  text-decoration: none;
+  
+}
+.fa-instagram{
+  color: white;
+  font-size: 55px;
+  margin-top: 290px;
+  margin-left: 315px;
+  padding: 0px; 
+  text-decoration: none;
+
+}
+.fa-twitter{
+  color: white;
+  font-size: 55px;
+  margin-top: 290px;
+  margin-left: 322px;
+  padding: 0px;
+  text-decoration: none;
+
+
+}
