@@ -1,1 +1,0 @@
-<a class="fa social fa-linkedin-square" href="https://www.linkedin.com/in/saniya-ahuja/" target="_blank" aria-hidden="true"></a>
