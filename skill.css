@@ -1,4 +1,4 @@
-body {
+    body {
     background-image: url("background1.jpg");
     background-color: #cccccc;
 }
@@ -24,13 +24,22 @@ div2 {
     letter-spacing: 120px;
 }
 
-h1 {
+h1 {margin-top: -40px;
     margin-left: 30px;
     font-size: 50px;
     color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
 }
 h2{
 padding-top: 90px;
 margin-left: 30px
 }
+.fa-house-chimney{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 30px;
+    color: white;
+    text-decoration: none;
+}
+
