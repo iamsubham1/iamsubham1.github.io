@@ -1,47 +1,34 @@
-body {
-    background-image: url("background1.jpg");
+<!DOCTYPE html>
+<html lang="en">
 
-}
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="contact.css">
+    <script src="https://kit.fontawesome.com/7b0b0d6a10.js" crossorigin="anonymous"></script>
 
-h1 {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 50px;
-    color: white;
 
-}
+</head>
+<title>
+    Contact
+</title>
 
-div1 {
-    font-size: 25px;
-    color: azure;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    display: block;
-    background-color: rgba(128, 128, 128, 0);
-    width: 500px;
-    height: 10px;
-    margin-top: 10px;
-    margin-left: 10px;
-}
+<body>
+   <a class="fa-solid fa-house-chimney" href="index.html"></a><h1>CONTACT PAGE </h1>
+    <hr>
+    <div1>
+        <i class="fa-solid fa-phone"></i> Ph.No-9078133097
+    </div1>
+    <div2>
+        <i class="fa-solid fa-envelope"></i> Email.Id-das1998lipun@gmail.com
+    </div2>
+    <div3>
+        <i class="fa-solid fa-location-dot"></i> Address-Berhampur,Odisha,pin-761001
+    </div3>
 
-div2 {
-    font-size: 25px;
-    color: azure;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    display: block;
-    background-color: rgba(128, 128, 128, 0);
-    width: 500px;
-    height: 10px;
-    margin-top: 40px;
-    margin-left: 10px;
-}
 
-div3 {
-    font-size: 25px;
-    color: azure;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    display: block;
-    background-color: rgba(128, 128, 128, 0);
-    width: 500px;
-    height: 10px;
-    margin-top: 40px;
-    margin-left: 10px;
-}
+
+</body>
+
+</html>
