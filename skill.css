@@ -1,4 +1,4 @@
-    body {
+body {
     background-image: url("background1.jpg");
     background-color: #cccccc;
 }
@@ -41,5 +41,8 @@ margin-left: 30px
     margin-left: 30px;
     color: white;
     text-decoration: none;
+    transition: .2s;
 }
-
+.fa-house-chimney:hover{
+transform: scale(1.5);
+}
