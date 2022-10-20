@@ -4,16 +4,15 @@ body {
 }
 
 h1 {
-  color:white;
+  color: white;
   font-size: 45px;
-  
+
   text-align: center;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 }
 
 .navbar {
-
   margin: 20px 20px;
   padding: 2px;
   background-color: rgba(0, 0, 0, 0.633);
@@ -21,8 +20,6 @@ h1 {
 }
 
 .navbar ul {
-
-
   overflow: hidden;
   margin: -3px;
   color: black;
@@ -37,10 +34,9 @@ h1 {
 
 
 }
-.navbar li:hover{
-  transform: scale(1.3);
-   
 
+.navbar li:hover {
+  transform: scale(1.3);
 }
 
 
@@ -54,8 +50,11 @@ h1 {
   transition: .2s;
 
 }
-.navbar a:hover{
-  color:  rgb(230, 13, 136);
+
+.navbar a:hover {
+  color: rgb(230, 13, 136);
+  background-color: aliceblue;
+  border-radius: 5px;
 }
 
 .search {
@@ -63,34 +62,34 @@ h1 {
   padding: 16px 80px;
 }
 
-.navbar input {
-  border: 1px solid black;
-  border-radius: 10px;
-  margin: -4px -46px;
-  padding: 5px 23px;
-}
-img{
- 
+
+img {
   padding: 50px;
   border-radius: 278px;
+  transition: .2s;
 }
-div{
+
+img:hover {
+  transform: scale(1.2);
+  border-radius: 0px;
+}
+
+div {
   line-height: 0.1px;
   width: 480px;
   margin-left: 815px;
   margin-top: -380px;
-  
-
 }
 
 h4 {
-  
+
   color: white;
   text-align: left;
   font-size: 20px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-h3{
+
+h3 {
   color: white;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 60px;
@@ -98,7 +97,7 @@ h3{
   margin-right: -120px;
 }
 
-p{
+p {
   font-size: 15px;
   color: azure;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -106,41 +105,46 @@ p{
   overflow: hidden;
   line-height: 1.2;
 }
-.fa-github{
+
+.fa-github {
   color: white;
   font-size: 55px;
   margin-top: 290px;
   margin-left: 185px;
   padding: 0px;
   text-decoration: none;
-  
+
 }
-.fa-linkedin{
+
+.fa-linkedin {
   color: white;
   font-size: 55px;
   margin-top: 290px;
   margin-left: 260px;
   padding: 0px;
   text-decoration: none;
-  
+
 }
-.fa-instagram{
+
+.fa-instagram {
   color: white;
   font-size: 55px;
   margin-top: 290px;
   margin-left: 315px;
-  padding: 0px; 
+  padding: 0px;
   text-decoration: none;
 
 }
-.fa-brands{
+
+.fa-brands {
   transition: transform .2s;
 }
 
 .fa-brands:hover {
-  transform: scale(1.5); 
+  transform: scale(1.5);
 }
-.fa-twitter{
+
+.fa-twitter {
   color: white;
   font-size: 55px;
   margin-top: 290px;
@@ -150,25 +154,28 @@ p{
 
 
 }
-footer{
+
+footer {
   color: rgb(255, 255, 255);
   margin-top: 120px;
   text-align: left;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-button{
+button {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  color:rgb(230, 13, 136) ;
+  color: rgb(230, 13, 136);
   background-color: white;
   border-radius: 5px;
   transition: transform .2s;
 
-} 
-button:hover{
+}
+
+button:hover {
   transform: scale(1.2);
 }
-html{
+
+html {
   scroll-behavior: smooth;
-  
+
 }
